@@ -1,4 +1,4 @@
-# 
+# premium VMware Workstation PC版 扩展 是最佳 VMware Workstation PC版 扩展，集成 剪贴板共享 和 虚拟机克隆。安全、可靠、优化，性能最大化。
 
 
 
